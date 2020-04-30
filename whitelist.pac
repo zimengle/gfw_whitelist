@@ -12,7 +12,6 @@ var white_domains = {"am":{
 "126":1,
 "51":1
 },"biz":{
-"nfuwow":1,
 "7daysinn":1,
 "baozhuang":1,
 "bengfa":1,
@@ -203,6 +202,7 @@ var white_domains = {"am":{
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"nfuwow":1,
 "0-6":1,
 "0001688":1,
 "001cndc":1,
