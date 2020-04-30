@@ -12,6 +12,7 @@ var white_domains = {"am":{
 "126":1,
 "51":1
 },"biz":{
+"nfuwow":1,
 "7daysinn":1,
 "baozhuang":1,
 "bengfa":1,
